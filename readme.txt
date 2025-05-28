@@ -1,37 +1,19 @@
-Free Download Source Code "Employee Management System"
+# hotel booking system
 
-FIRST Download
+## Group Members
+- Kate Paulene Dizon
 
-1.XAMPP
+## How to Run the System Locally
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/katedizon/system
+2. Import the SQL File to your  MySQL (via phpMyAdmin or just click admin on xampp)
+3. Place folder inside htdocs (Local Disk C > xampp > htdocs)
+4. Access via browser
+   -localhost/system
 
-3"Employee_Management_System"
+   Notes
+Make sure Apache and MySQL are running
 
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "Employee_Management_System" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name ems
-
-6. Import ems.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Employee_Management_System
-
-
-**LOGIN DETAILS** 
-
-Admin
-user: admin@gmail.com
-pass: admin
-
-User
-user: john@gmail.com
-pass: 1234
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+Database name should match the .sql import
