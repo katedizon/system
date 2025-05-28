@@ -1,4 +1,4 @@
-# hotel booking system
+# Employee Management System
 
 ## Group Members
 - Kate Paulene Dizon
